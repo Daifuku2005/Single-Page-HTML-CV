@@ -3,3 +3,5 @@
 3. Open/import file using VS Code
 4. Install extension in VS Code called "Live Server"
 5. Proceed to run file (make sure to have a browser running)
+
+https://roadmap.sh/projects/single-page-cv
